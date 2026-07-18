@@ -29,6 +29,22 @@
 
 ---
 
+<h2 align="center">🌐 Contacto</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/nicolino_cantalejos">
+    <img src="https://img.shields.io/badge/Instagram-nicolino__cantalejos-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:nicolino.cantalejos10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nicolino.cantalejos10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <img src="https://img.shields.io/badge/Discord-ferivv-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
+
+---
+
 ## Proyectos
 
 🔹 **Próximamente...**
