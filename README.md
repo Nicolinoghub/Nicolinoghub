@@ -1,7 +1,7 @@
 <h1 align="center">Nicolino Cantalejos</h1>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/115/115160.gif" width="50%">
+  <img src="https://i.pinimg.com/originals/b1/06/1f/b1061f725b4b5f1f7a2a2df5a6f8b3ba.gif" width="50%">
 </p>
 
 <p align="center">
