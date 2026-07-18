@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+  <img src="https://i.pinimg.com/736x/cf/6a/48/cf6a482180adae9f12393291f4c9e628.jpg" width="50%" />
 </p>
