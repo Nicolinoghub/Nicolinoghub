@@ -18,12 +18,13 @@
 
 
 <br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- First year of software development.
+- polishing Python, C++, and C
+- A passionate cybersecurity 
+- Playing Rust at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Building Personal website ...
+
 
 <br><br>
 
