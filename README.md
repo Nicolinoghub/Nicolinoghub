@@ -18,6 +18,7 @@
 
 
 <br>
+
 - First year of software development.
 - polishing Python, C++, and C
 - A passionate cybersecurity 
